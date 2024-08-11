@@ -1,21 +1,64 @@
-### Contract Address
-0xab24ae7071394aab5d769f7674c31e88575f7e7cbd541310efcd084d0b7f38dd
 
----
+![tw-banner](https://github.com/thirdweb-example/vite-starter/assets/57885104/cfe2164b-b50b-4d8e-aaaa-31331da2d647)
 
-### Project Title
-Decentralized To-Do List App on Aptos Blockchain
+# vite-starter
 
----
+Starter template to build onchain applications with [thirdweb](https://thirdweb.com) and [vite](https://vitejs.dev/). 
 
-### Project Description
-The Decentralized To-Do List App is a blockchain-based application developed using the Move programming language and deployed on the Aptos blockchain. This application allows users to create, manage, and track their tasks in a secure and tamper-proof manner. By leveraging blockchain technology, the app ensures that all tasks are recorded transparently and immutably, providing users with trust in the integrity of their data. The application is designed to be user-friendly, scalable, and easy to integrate into various platforms, enabling individuals and teams to manage their to-do lists efficiently.
+## Features 
 
-## Key Features
--  Transparency#: Every task and update is securely stored on the blockchain, ensuring data integrity.
--  Security:# Tasks are encrypted and immutable, protecting them from unauthorized changes.
--  Scalability# The app is optimized to handle a high number of tasks, suitable for both individual and collaborative use.
--  Interoperability# Easily integrates with other decentralized applications and platforms within the Aptos ecosystem.
+- thirdweb & vite pre-installed and configured to reduce setup steps
+- ConnectButton to onboard users to your application
 
-## Project Vision
-The vision behind the Decentralized To-Do List App is to provide users with a reliable and secure tool for task management. By utilizing the Aptos blockchain, this project aims to redefine how users manage their daily activities, offering a transparent, secure, and decentralized solution for to-do list management.
+## Installation
+
+Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
+
+```bash
+  npx thirdweb create app --vite
+```
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file:
+
+`CLIENT_ID`
+
+To learn how to create a client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
+
+## Run locally
+
+Install dependencies
+
+```bash
+yarn
+```
+
+Start development server
+
+```bash
+yarn dev
+```
+
+Create a production build
+
+```bash
+yarn build
+```
+
+Preview the production build
+
+```bash
+yarn preview
+```
+
+## Additional Resources
+
+- [Documentation](https://portal.thirdweb.com/typescript/v5)
+- [Templates](https://thirdweb.com/templates)
+- [YouTube](https://www.youtube.com/c/thirdweb)
+- [Blog](https://blog.thirdweb.com)
+
+## Need help?
+
+For help or feedback, please [visit our support site](https://thirdweb.com/support)
