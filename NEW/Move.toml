@@ -1,5 +1,5 @@
 [package]
-name = 'my_todo_list'
+name = 'my_fund'
 version = '1.0.0'
 
 [dependencies.AptosFramework]
