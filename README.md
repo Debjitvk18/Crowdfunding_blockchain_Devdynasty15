@@ -4,7 +4,7 @@ The Crowd Funding Project is a decentralized application (dApp) built using the 
 
 This project leverages the capabilities of blockchain technology to ensure that all transactions are transparent and immutable, providing a high level of trust between campaign creators and donors. The platform allows campaign creators to specify details such as the campaign title, description, target funding amount, deadline, and associated image. Donors can contribute to campaigns by sending funds directly to the campaign, with their contributions being tracked on the blockchain.
 
-# Project Vision
+Project Vision
 The vision of the Crowd Funding Project is to democratize access to funding by leveraging the decentralization, transparency, and security of blockchain technology. The project aims to empower individuals and organizations to raise funds for their initiatives without relying on traditional financial institutions, thereby reducing barriers to entry and fostering innovation. By ensuring that all transactions are publicly verifiable and immutable, the platform seeks to build trust among users and create a community-driven ecosystem where people can support causes they believe in.
 
 # Features
@@ -16,7 +16,7 @@ Donation Mechanism: Donors can contribute funds to campaigns. Their donations ar
 
 Transparency and Trust: By leveraging the Aptos blockchain, the project ensures that all transactions are transparent, immutable, and publicly verifiable, enhancing trust between all parties involved.
 
-# Description
+Smart contract
 The smart contract for this project is implemented in Move, a language specifically designed for safe and secure resource management on the blockchain. The key components of the contract are:
 
 Campaign Struct: This struct defines the properties of a campaign, including the owner's address, title, description, target amount, deadline, collected amount, associated image, and lists of donators and donations.
