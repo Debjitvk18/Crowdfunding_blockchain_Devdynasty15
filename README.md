@@ -1,5 +1,5 @@
-## Crowd Funding Project
-# Project Description
+# Crowd Funding Project
+## Project Description
 The Crowd Funding Project is a decentralized application (dApp) built using the Move language on the Aptos blockchain. The goal of this project is to create a platform that allows users to create and manage crowdfunding campaigns, enabling individuals to raise funds for various causes or projects in a secure and transparent manner.
 
 This project leverages the capabilities of blockchain technology to ensure that all transactions are transparent and immutable, providing a high level of trust between campaign creators and donors. The platform allows campaign creators to specify details such as the campaign title, description, target funding amount, deadline, and associated image. Donors can contribute to campaigns by sending funds directly to the campaign, with their contributions being tracked on the blockchain.
